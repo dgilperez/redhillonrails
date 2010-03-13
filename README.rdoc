@@ -1,0 +1,8 @@
+= Goal    
+harukizaemon retired his set of excellent redhillonrails plugins.
+My goal is to maintain at least some plugins and made them compatible with
+Rails edge.
+
+= What is done
+* redhillonrails_core - http://rubygems.org/gems/redhillonrails_core
+* foreign_key_migrations - http://rubygems.org/gems/automatic_foreign_key
